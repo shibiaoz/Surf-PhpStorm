@@ -35,3 +35,4 @@ tbwidget2|load widget,PhpStorm中不支持在不同语法环境中相同的缩�
 tbgetPageData|getPageData
 tbscriptStart|use js in php
 tbfunnote|the same to tbjs tbfunnote
+
